@@ -1,0 +1,162 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Yeseva One', cursive;
+    margin: 0;
+}
+
+h1{
+    font-family: 'Yeseva One', cursive;
+    font-size: 60px;
+    font-weight: 200;
+}
+h2{
+    font-family: 'Poppins', sans-serif;
+    font-size: 45px;
+}
+h3{
+    font-family: 'Poppins', sans-serif;
+    font-size: 20px;
+}
+
+p{
+    font-family: 'Poppins', sans-serif;
+}
+
+.header-color{
+    color: rgb(201, 89, 201);
+}
+
+.header-part{
+    display: flex;
+}
+
+.verticle-line{
+    margin-top: 55px;
+    height: 124px;
+    width: 4px;
+    background-color: tomato;
+    border-radius: 99px;
+   
+}
+
+.link_button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 40px;
+    background-image: linear-gradient(salmon,tomato);
+    font-family: 'Poppins', sans-serif ;
+    border-radius: 5px;
+   margin-top: 200px;
+}
+
+
+
+.frist_part{
+    display: flex;
+   
+}
+
+.half_width{
+    width: 50%;
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.half_width img{
+    width: 70%;
+}
+
+.mission_2022_header h1{
+    font-family: 'Poppins', sans-serif ;
+    font-size: 50px;
+    text-align: center;
+    font-weight: 900;
+    margin-top: 10%;
+    
+}
+
+.box_part{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.box_decoration{
+    height: 376px ;
+    width: 360px;
+    padding-left: 30px;
+    border-radius: 30px;
+    
+}
+
+.box_decoration img{
+    width: 141px;
+    height: 141px;
+}
+
+.box_01{
+    background-color: rgb(237, 245, 246);
+}
+
+.box_02{
+    background-color:rgb(255, 238, 238);
+}
+
+.box_03{
+    background-color: rgb(255, 244, 214);
+}
+
+.develop_part{
+    display: flex;
+    margin-top: 10%;
+    margin-bottom: 5%;
+    background-image: url(images/shapes/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: 45px;
+    background-position-y: 40px;
+}
+
+.half_width_02{
+    width: 50%;
+   
+}
+
+.half_width_02 img{
+    width: 65%;
+    margin-left: 23%;
+    margin-top: 10px;
+}
+
+.side_movement{
+    margin-right: 8%;
+}
+
+.global_part{
+    display: flex;
+    margin-bottom: 10%;
+    background-image: url(images/shapes/shape-01.png);
+    background-repeat: no-repeat;
+    background-position-x:right ;
+    background-position-y: 200px;
+   
+    
+    
+}
+
+.footer_part{
+    height: 135px;
+    width: 100%;
+    text-align: center;
+    background-color: rgb(11, 13, 23);
+    color: rgba(255, 255, 255, 0.692);
+    padding-top: 30px;
+}
+.footer_part h3{
+    font-size: 25px;
+    font-weight: 200;
+    font-family: 'Lobster', cursive;
+
+}
+
+
