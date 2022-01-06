@@ -159,4 +159,53 @@ p{
 
 }
 
+.contract h3 {
+    text-align: center;
+    margin: 0;
+
+}
+
+.horizontal_line {
+    height: 5px;
+    width: 300px;
+    background-color: tomato;
+    border-radius: 99px;
+    margin-left: 610px;
+    margin-bottom: 20px;
+}
+
+.flexible_location{
+    display: flex;
+    margin-bottom: 3%;
+    border: 5px solid gray;
+    border-radius: 2px;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-bottom: 20px;
+    
+}
+.google_map{
+    margin: 0 auto;
+    margin-left: 5%;
+}
+
+.massage{
+    margin: 0 auto;
+    margin-left: 5%;
+}
+
+.big_text{
+    height: 70px;
+    width: 455px;
+    margin-bottom: 2%;
+    margin-top:3% ;
+}
+
+#big_font{
+    font-size: 40px;
+}
+
+
+
+
 
